@@ -1,0 +1,21 @@
+work item Processes on azure boards
+1-basic (Epic / Issue / Task)
+2-agile
+3-scrum
+4-CMMI
+
+Epic:
+A-website updates for www.thecloudopscommunity.org
+(we need to make an update to our website to provide a better experience to the users.)
+
+Acceptance Criteria: As a developer i will update the website ui to make it user-friendly
+  *Homepage
+      -designing a home page header
+      -standardizing fonts
+      -fixing the homepage CSS to make it mobile responsive
+  *About Us Page
+  *Secure Sign-In
+B-Cloud Migration
+C-CICD Implementation
+
+https://azuredevopsdemogenerator.azurewebsites.net/
